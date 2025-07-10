@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Kingflirckz22
-- 👀 I’m interested in ... web3 projects
-- 🌱 I’m currently learning ... cyber security
-- 💞️ I’m looking to collaborate on ... any web3 project
-- 📫 How to reach me ... mail me on flirrckz22@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Building myself first 
+Watchout for repo.
+
 
 <!---
 Kingflirckz22/Kingflirckz22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
