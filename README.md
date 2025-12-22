@@ -18,6 +18,13 @@ I am a technical enthusiast dedicated to building secure, scalable, and highly a
 
 ---
 
+### 📊 My Projects
+
+
+- **[Terraform Multi-Tier Infra](https://github.com/Kingflirckz22/Terraform-with-gcp)** - Automated provisioning of S3 bucket.
+
+
+---
 
 ### 🏆 Certifications & Learning
 - ✅ **AWS Certified Cloud Practitioner**
