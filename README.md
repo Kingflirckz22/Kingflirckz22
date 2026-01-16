@@ -1,12 +1,12 @@
-# Hi there, I'm Anjorin Olayemi Enitan 👋 
+# Hi there, I'm Anjorin Olayemi Enitan 
 
-### ☁️ Aspiring Cloud & Networking Engineer | AWS Certified | CCNA in Progress
+###  Aspiring Cloud Engineer | AWS Certified 
 
 I am a technical enthusiast dedicated to building secure, scalable, and highly available infrastructure. My work bridges the gap between traditional networking and modern cloud-native solutions. I thrive on automating complex deployments and optimizing data flow.
 
 ---
 
-### 🚀 Technical Arsenal
+###  Technical Arsenal
 
 | Category | Technologies |
 | :--- | :--- |
@@ -18,22 +18,24 @@ I am a technical enthusiast dedicated to building secure, scalable, and highly a
 
 ---
 
-### 📊 My Projects
+###  My Projects
 
 
 - **[Terraform Multi-Tier Infra](https://github.com/Kingflirckz22/Terraform-with-gcp)** - Automated provisioning of S3 bucket.
+- **[Aws-cost-optimizer](https://github.com/Kingflirckz22/Aws-cost-optimizer.git)** - Scan cloud account for unused resources.
+
 
 
 ---
 
-### 🏆 Certifications & Learning
+###  Certifications & Learning
 - ✅ **AWS Certified Cloud Practitioner**
 - ⏳ **CCNA (Cisco Certified Network Associate)** - *In Progress*
 - ⏳ **AWS Solutions Architect Associate** - *In Progress*
 
 ---
 
-### 📫 Connect with me:
+###  Connect with me:
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/anjorin-olayemi-enitan-0121ab210)
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://x.com/kingflirckz22)
